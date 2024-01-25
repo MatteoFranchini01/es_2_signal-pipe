@@ -1,0 +1,3 @@
+/Users/matteofranchini/Library/CloudStorage/OneDrive-UniversitàdegliStudidiParma/Università/Appunti e slide/III anno/Sistemi Operativi/es_2_signal&pipe/cmake-build-debug/CMakeFiles/es_2_signal_pipe.dir
+/Users/matteofranchini/Library/CloudStorage/OneDrive-UniversitàdegliStudidiParma/Università/Appunti e slide/III anno/Sistemi Operativi/es_2_signal&pipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matteofranchini/Library/CloudStorage/OneDrive-UniversitàdegliStudidiParma/Università/Appunti e slide/III anno/Sistemi Operativi/es_2_signal&pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
